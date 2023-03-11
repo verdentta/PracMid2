@@ -15,6 +15,6 @@ def increment_by_three(var_to_increment):
     """
     This function increments input by three
     :param var_to_increment: param to increment
-    :return: incremented variable
+    :return: incremented variable blah blah blah
     """
     return var_to_increment + 3
