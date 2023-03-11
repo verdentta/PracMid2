@@ -17,4 +17,4 @@ def increment_by_three(var_to_increment):
     :param var_to_increment: param to increment
     :return: incremented variable
     """
-    return var_to_increment + 3
+    return var_to_increment + 4
