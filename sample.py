@@ -10,5 +10,3 @@ def increment_by_two(var_to_increment):
     :return: incremented variable
     """
     return var_to_increment + 2
-
-
